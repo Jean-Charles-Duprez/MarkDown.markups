@@ -1,6 +1,6 @@
 # MarkDown.markups
 
-<a href="[https://github.com/Jean-Charles-Duprez/MarkDown.markups]>">Lien GitHub</a></p>
+<a href="https://github.com/Jean-Charles-Duprez/MarkDown.markups">Lien GitHub</a></p>
 
 ## Table of Contents
 1. [MD MarkDown Texte](#MD.MARKUP-01)
