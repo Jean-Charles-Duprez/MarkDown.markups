@@ -3,15 +3,44 @@
 <a href="[https://github.com/Jean-Charles-Duprez/MarkDown.markups]>">Lien GitHub</a></p>
 
 ## Table of Contents
-1. [MD MarkDown Images](#MD.MARKUP-01)
+1. [MD MarkDown Texte](#MD.MARKUP-01)
 2. [MD MarkDown FlashNotes](#MD.MARKUP-02)
 3. [MD MarkDown Tables](#MD.MARKUP-03)
 4. [MD MarkDown Zones](#MD.MARKUP-04)
-5. [MD MarkDown Texte](#MD.MARKUP-05)
 
 <a name="MD.MARKUP-01"></a>
 ## 1) Affichage MarkDown d'une Image
-![Some Text](https://wallpapercave.com/wp/nV132Vj.jpg "In the Tooltip")
+
+
+En italique : <em>en italique</em>
+
+```html
+En italique : <em>en italique</em>
+```
+
+En gras : <strong>en gras</strong>
+
+```js
+En gras : <strong>en gras</strong>
+```
+
+Encadré : <code>encadré</code>
+
+```js
+Encadré : <code>encadré</code>
+```
+
+Un lien : <a href="http://example.com">lien</a>
+
+```js
+Un lien : <a href="http://example.com">lien</a>
+```
+
+Une Image : <img alt="Image" title="icon" src="https://wallpapercave.com/wp/nV132Vj.jpg"></img>
+
+```js
+Une Image : <img alt="Image" title="icon" src="https://wallpapercave.com/wp/nV132Vj.jpg"></img>
+```
 
 <a name="MD.MARKUP-02"></a>
 ## 2) Affichage MarkDown d'information spécifique 
@@ -84,13 +113,3 @@
         return '<tr>';
     }
 ```
-
-<a name="MD.MARKUP-05"></a>
-## 5) Affichage Zone de texte
-
-<p>En italique : <em>en italique</em></p>
-<p>En gras : <strong>en gras</strong></p>
-<p>Encadré : <code>encadré</code></p>
-<p>Un lien : <a href="http://example.com">lien</a></p>
-<p>Une Image : <img alt="Image" title="icon" src="https://wallpapercave.com/wp/nV132Vj.jpg"></img></p>
-
