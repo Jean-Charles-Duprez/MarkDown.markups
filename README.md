@@ -47,17 +47,42 @@ Une Image : <img alt="Image" title="icon" src="https://wallpapercave.com/wp/nV13
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
+```js
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+```
+
 > [!TIP]
 > Optional information to help a user be more successful.
+
+```js
+> [!TIP]
+> Optional information to help a user be more successful.
+```
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
+```js
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+```
+
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
+```js
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+```
+
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+```js
+> [!CAUTION]
+> Negative potential consequences of an action.
+```
 
 <a name="MD.MARKUP-03"></a>
 ## 3) Affichage MarkDown de Tables
@@ -67,6 +92,14 @@ Une Image : <img alt="Image" title="icon" src="https://wallpapercave.com/wp/nV13
 | This is left | Text is centered | And this is right-aligned  |
 | More text    | Even more text   | And even more to the right |
 | Adding Pipe  | Even \| text     | *some italic*              |
+
+```js
+| **Left**     | **Centered**     | **Right**                  |
+| :----------- | :--------------: | -------------------------: |
+| This is left | Text is centered | And this is right-aligned  |
+| More text    | Even more text   | And even more to the right |
+| Adding Pipe  | Even \| text     | *some italic*              |
+```
 
 <a name="MD.MARKUP-04"></a>
 ## 4) Affichage Zone de Code
